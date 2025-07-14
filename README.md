@@ -12,7 +12,7 @@ For example, if I upload a file called `notes.pdf` and this file has 3 pages, th
 # Privacy
 **pdfsplit** is designed with privacy in mind. All uploaded and processed files are automatically deleted after the download is completed to ensure user data is not stored on the server unnecessarily. The only information we'll eventually track is the number of pages of each PDF and their size for analytics purposes.
 
-# PDF page splitter CLI
+# CLI
 To use the CLI, clone the repository and run the commands
 ```
 pip3 install -r requirements
